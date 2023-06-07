@@ -1,38 +1,36 @@
 class Chronometer 
-  constructor() {
-    this.currentTime = 0;
-    this.intervalId = null;     
+  constructor() ;{
+   // ... your code goes here 
   }
 
-  start(printTimeCallback) {
+  start(printTimeCallback); {
     // ... your code goes here
   }
 
-  getMinutes() {
+  getMinutes();{
     // ... your code goes here
   }
 
-  getSeconds() {
+  getSeconds(); {
     // ... your code goes here
   }
 
-  getCentiseconds() {
+  getCentiseconds() ;{
     // ... your code goes here
   }
 
-  computeTwoDigitNumber(value) {
+  computeTwoDigitNumber(value) ;{
     // ... your code goes here
   }
 
-  stop() {
+  stop() ;{
     // ... your code goes here
   }
 
-  reset() {
+  reset() ;{
     // ... your code goes here
   }
 
-  split() {
+  split() ;{
     // ... your code goes here
   }
-}
